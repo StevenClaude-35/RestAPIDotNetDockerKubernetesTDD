@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YPxsH/2FeVVso+nWw6R2qoLoyOv/Bah+f08GINP7pU1haoiaGsruvzZgyl4+NatP77noXiKkFgHaD48sj9IUhA==",
+  "dgSpecHash": "8edKeXS36KypkTFSqkVv4FIl6M23YxNcZup38TYI3ZAwqsKyXys1V0QcGUZZaXiC6Tja/xjbfa7Nwr+Z4Ynscg==",
   "success": true,
   "projectFilePath": "D:\\FullProjetctAPI\\Catalog\\Catalog\\Catalog.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.visualstudio.azure.kubernetes.tools.targets\\1.1.0\\microsoft.visualstudio.azure.kubernetes.tools.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\mongodb.bson\\2.13.1\\mongodb.bson.2.13.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\mongodb.driver\\2.13.1\\mongodb.driver.2.13.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\mongodb.driver.core\\2.13.1\\mongodb.driver.core.2.13.1.nupkg.sha512",
